@@ -7,4 +7,7 @@ public class DuoTai {
 	public void eat(){
 		System.out.println("a..eat");
 	}
+	public void drink(){
+		System.out.println("a..drink");
+	}
 }
